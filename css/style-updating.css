@@ -1,0 +1,17 @@
+﻿.heading {
+    text-align: center;
+    padding: 220px 0px;
+}
+
+.heading h1 {
+    font-weight: bold;
+    font-size: 72px;
+}
+
+.heading p {
+    font-size: 20px;
+}
+
+a.btn {
+   border-radius: 15px;
+}

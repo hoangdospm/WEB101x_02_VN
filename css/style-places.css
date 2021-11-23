@@ -1,0 +1,50 @@
+﻿body {
+    background: #fafafa;
+}
+
+.heading {
+    margin: 50px 0px 80px;
+    text-align: center;
+}
+
+.heading .btn {
+    border-radius: 15px;
+}
+
+.heading h1 {
+    font-size: 60px;
+    font-weight: bold;
+    margin: 30px;
+}
+
+.heading .diadanh, .heading .vuichoi {
+    margin-bottom: 10px;
+}
+
+.dia-diem-list {
+    margin-bottom: 30px;
+}
+
+.dia-diem-item {
+    border: 1.5px solid #ddd;
+    border-radius: 10px;
+    padding-top: 15px;
+    background-color: #fff;
+    margin-bottom: 45px;
+}
+
+.dia-diem-item img {
+    margin-bottom: 15px;
+}
+
+hr {
+    margin: 5px 15px 20px;
+}
+
+.dia-diem-item h2 {
+    margin-top: 0px;
+}
+
+.dia-diem-image {
+    padding: 0px;
+}
